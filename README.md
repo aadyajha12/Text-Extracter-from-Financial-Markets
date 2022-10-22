@@ -1,4 +1,4 @@
-# financial_news_web_scraper
+# Text Extractor from Financial Markets
 A web scraper which extracts text from financial articles on Reuters' and Forbes' websites, and feeds them into a postgreSQL table using the psycopg2 module.
 
 ## Getting Started
